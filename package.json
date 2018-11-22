@@ -1,0 +1,13 @@
+{
+    "name": "black-finder",
+    "version": "0.0.1",
+    "description": "Black Friday Miner.",
+    "main": "server.js",
+    "author": "Rodrigo Cioletti",
+    "dependencies": {
+        "cheerio": "latest",
+        "express": "latest",
+        "nodemon": "^1.18.6",
+        "request": "latest"
+    }
+}
